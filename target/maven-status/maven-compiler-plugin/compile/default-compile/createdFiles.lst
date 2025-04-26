@@ -1,0 +1,5 @@
+com\SOA\service\UserService.class
+com\SOA\util\Conexion.class
+com\SOA\model\User.class
+com\SOA\dao\UserDAO.class
+com\SOA\controller\UserController.class
